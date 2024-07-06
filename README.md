@@ -1,1 +1,1 @@
-# CODESOFT
+# javascript calaculator
